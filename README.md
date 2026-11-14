@@ -1,4 +1,4 @@
-#Una galaxia ✨🌌
+Una galaxia ✨🌌
 
 Una experiencia web interactiva, romántica y con temática espacial diseñada para hacer una declaración especial. Este proyecto utiliza animaciones en Canvas y manipulación del DOM para crear un recorrido visual hasta llegar a "La pregunta".
 
