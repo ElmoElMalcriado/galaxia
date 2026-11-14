@@ -50,3 +50,6 @@ Ejecutar: Simplemente haz doble clic en index.html para abrirlo en tu navegador 
     └── galaxiaimagen.jpg # La imagen que aparece al dar el "Sí"
 
 Creado con mucho cariño por ElmoElMalcriado (tu Dibujito malcriado) - 2026
+
+<img width="896" height="1168" alt="galaxiaimagen" src="https://github.com/user-attachments/assets/b36fa8db-0344-45c1-9323-0c23aed60911" />
+
