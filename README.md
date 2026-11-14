@@ -49,15 +49,4 @@ Ejecutar: Simplemente haz doble clic en index.html para abrirlo en tu navegador 
 └── img/
     └── galaxiaimagen.jpg # La imagen que aparece al dar el "Sí"
 
-
-🎨 Posibles Personalizaciones
-
-Si deseas adaptar este proyecto para alguien más o cambiar el estilo, busca estas secciones en el archivo index.html:
-
-Textos y Nombres: Puedes buscar "Naomy" en el HTML y reemplazarlo. Modifica los textos de los <p> y <h1> según tu mensaje.
-
-Colores (CSS): En la etiqueta <style>, dentro de :root, puedes cambiar variables como --accent (rosado), --violet (violeta) o --gold (dorado) para darle otra paleta de colores a los textos y botones.
-
-Textos de los botones: En el array labels y notes dentro de la etiqueta <script>, puedes personalizar los divertidos mensajes que aparecen cuando se intenta presionar el botón "No".
-
 Creado con mucho cariño por ElmoElMalcriado (tu Dibujito malcriado) - 2026
